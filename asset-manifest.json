@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CV/static/css/main.2a52ff4b.css",
+    "main.js": "/CV/static/js/main.5c99e447.js",
+    "static/media/Certificate.pdf": "/CV/static/media/Certificate.96ae72b6b908bd674177.pdf",
+    "static/media/speedia-prev.jpg": "/CV/static/media/speedia-prev.9fb5e54de19640619917.jpg",
+    "static/media/Appie-prev.jpg": "/CV/static/media/Appie-prev.d37f7028823b70889160.jpg",
+    "static/media/CV.pdf": "/CV/static/media/CV.ddd189ecbc90faafbfe0.pdf",
+    "static/media/download.pdf": "/CV/static/media/download.b7b04772e630ba61d106.pdf",
+    "static/media/i.jpg": "/CV/static/media/i.e56397651c77cb1ea25a.jpg",
+    "static/media/icomoon.svg?7fdi7t": "/CV/static/media/icomoon.f143f990e4f060cd812c.svg",
+    "static/media/icomoon.eot?7fdi7t": "/CV/static/media/icomoon.4cc5fb71df920cf42624.eot",
+    "static/media/icomoon.woff?7fdi7t": "/CV/static/media/icomoon.8d85c0369da770c5a103.woff",
+    "static/media/icomoon.ttf?7fdi7t": "/CV/static/media/icomoon.aba1a0ba2faa2c293f33.ttf",
+    "index.html": "/CV/index.html",
+    "main.2a52ff4b.css.map": "/CV/static/css/main.2a52ff4b.css.map",
+    "main.5c99e447.js.map": "/CV/static/js/main.5c99e447.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a52ff4b.css",
+    "static/js/main.5c99e447.js"
+  ]
+}
