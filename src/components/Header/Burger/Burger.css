@@ -1,0 +1,22 @@
+.burger {
+  position: fixed;
+  top: 0;
+  left: -110%;
+  height: 100%;
+  width: 160px;
+  overflow: auto;
+  background: transparent;
+  padding: 70px 10px 20px 10px;
+  transition: all 0.3s ease 0s;
+}
+.navbar__list {
+  background-color: black;
+}
+.burger__link {
+  color: #fff;
+}
+.burger.active {
+  list-style: none;
+  padding: 70px 15px 20px 15px;
+  left: 0;
+}

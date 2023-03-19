@@ -1,0 +1,18 @@
+.list {
+  padding-left: 25px;
+}
+.list__item {
+  list-style-type: square;
+  color: #fa5b0f;
+  margin-bottom: 8px;
+}
+
+.list__item_first {
+  margin-top: 30px;
+}
+.list__text {
+  color: #a2a2a2;
+  line-height: 1.7;
+  letter-spacing: 0.2px;
+  font-size: 0.875rem;
+}

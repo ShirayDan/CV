@@ -1,0 +1,28 @@
+.slider__img {
+  border-radius: 10px;
+  width: 100%;
+}
+.slider__item {
+  position: relative;
+}
+.slider__modal {
+  position: absolute;
+  width: 160px;
+  height: 30px;
+  top: -50px;
+  left: calc(100% - 160px);
+  background-color: #000;
+  transition: all 0.3s ease;
+  border-bottom-left-radius: 5px;
+  padding: 5px;
+}
+.slider__text {
+  font-weight: 600;
+  color: #fff;
+}
+@media screen and (min-width: 992px) {
+  .slider__item:hover .slider__modal {
+    transition: all 0.3s ease;
+    top: 0px;
+  }
+}

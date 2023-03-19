@@ -1,0 +1,17 @@
+.portfolio {
+  min-width: 320px;
+  padding: 0 20px;
+  max-width: 800px;
+}
+.portfolio__title {
+  color: #fff;
+  font-weight: 600;
+  line-height: 1.3;
+  font-size: 1.2rem;
+  padding-bottom: 20px;
+  border-bottom: 1px dashed hsla(0, 0%, 100%, 0.15);
+  width: 100%;
+}
+.portfolio__slider {
+  padding-top: 50px;
+}

@@ -1,0 +1,37 @@
+.project {
+  max-width: 800px;
+  background-color: #222;
+  border-radius: 10px;
+  padding: 10px;
+  height: calc(100vh - 150px);
+  overflow-y: scroll;
+}
+.project__img-container {
+  margin-bottom: 20px;
+  display: flex;
+
+  justify-content: center;
+}
+.project__img {
+  width: 100%;
+  border-radius: 10px;
+  max-width: 700px;
+}
+
+.modal__title_project {
+  text-align: center;
+  text-transform: none;
+}
+.project__find {
+  margin-top: 25px;
+  display: flex;
+  justify-content: space-between;
+}
+@media screen and (min-width: 768px) {
+  .project__inner {
+    padding: 20px;
+  }
+  .project__img-container {
+    margin-top: 20px;
+  }
+}

@@ -1,0 +1,24 @@
+.navbar__list {
+  display: flex;
+}
+.navbar__item {
+  margin-left: 30px;
+  position: relative;
+}
+.navbar__link {
+  color: #fff;
+  transition: all 0.3s ease;
+}
+.navbar__link:hover {
+  color: #fa5b0f;
+  transition: all 0.3s ease;
+}
+.navbar {
+  display: none;
+}
+
+@media screen and (min-width: 992px) {
+  .navbar {
+    display: block;
+  }
+}

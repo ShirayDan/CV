@@ -1,0 +1,32 @@
+.footer__container {
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #888;
+  background-color: #000;
+}
+.footer__text {
+  color: #fff;
+}
+.footer__item {
+  margin-left: 10px;
+}
+.footer__list {
+  display: flex;
+}
+@media screen and (min-width: 992px) {
+  .footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .footer__container {
+    padding-top: 30px;
+    width: 800px;
+  }
+  .footer__item:hover .icon {
+    color: #fff;
+    transition: all 0.3s ease;
+  }
+}
