@@ -1,58 +1,58 @@
 @font-face {
-  font-family: "icomoon";
-  src: url("fonts/icomoon.eot?7fdi7t");
-  src: url("fonts/icomoon.eot?7fdi7t#iefix") format("embedded-opentype"),
-    url("fonts/icomoon.ttf?7fdi7t") format("truetype"),
-    url("fonts/icomoon.woff?7fdi7t") format("woff"),
-    url("fonts/icomoon.svg?7fdi7t#icomoon") format("svg");
-  font-weight: normal;
-  font-style: normal;
-  font-display: block;
+	font-family: 'icomoon';
+	src: url('fonts/icomoon.eot?7fdi7t');
+	src: url('fonts/icomoon.eot?7fdi7t#iefix') format('embedded-opentype'),
+		url('fonts/icomoon.ttf?7fdi7t') format('truetype'),
+		url('fonts/icomoon.woff?7fdi7t') format('woff'),
+		url('fonts/icomoon.svg?7fdi7t#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: block;
 }
 
-[class^="icon-"],
-[class*=" icon-"] {
-  /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: "icomoon" !important;
-  speak: never;
-  font-style: normal;
-  font-weight: normal;
-  font-variant: normal;
-  text-transform: none;
-  line-height: 1;
-  transition: all 0.3s ease;
+[class^='icon-'],
+[class*=' icon-'] {
+	/* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'icomoon' !important;
+	speak: never;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	transition: all 0.3s ease;
 
-  /* Better Font Rendering =========== */
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 .icon-phone:before {
-  content: "\e942";
+	content: '\e942';
 }
 .icon-envelop:before {
-  content: "\e945";
+	content: '\e945';
 }
 .icon-location2:before {
-  content: "\e948";
+	content: '\e948';
 }
 .icon-calendar:before {
-  content: "\e953";
+	content: '\e953';
 }
 .icon-user:before {
-  content: "\e971";
+	content: '\e971';
 }
 .icon-instagram:before {
-  content: "\ea92";
+	content: '\ea92';
 }
 .icon-whatsapp:before {
-  content: "\ea93";
+	content: '\ea93';
 }
 .icon-telegram:before {
-  content: "\ea95";
+	content: '\ea95';
 }
 .icon-github:before {
-  content: "\eab0";
+	content: '\eab0';
 }
 .icon_left {
-  margin-right: 5px;
+	margin-right: 5px;
 }
